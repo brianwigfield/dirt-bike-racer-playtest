@@ -1,0 +1,14 @@
+Dustline event voiceovers
+
+Voice: Mason - Friendly Southern Neighbor, from the ElevenLabs Voice Library.
+Voice ID: dxdOayhnd0jLtELGeNtF
+Model: eleven_v4
+Provider: https://elevenlabs.io/
+
+These 24 recordings were generated for Dustline under user-confirmed
+commercial-use rights. Spoken scripts are original project dialogue.
+The game distributes locally served, level-balanced MP3 files; original
+WAVs and generation records remain in private development artifacts.
+
+The game does not contact ElevenLabs during play and contains no API key.
+Engine, landing, wind, and other riding effects are synthesized locally.
